@@ -17,7 +17,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <SearchDebounce />
+        <GameOfLife />
       </header>
     </div>
   );
